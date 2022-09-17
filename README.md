@@ -21,4 +21,5 @@ const erica = {
 };
 ```
 
+<img alt="T-pic" align="right" height="210" style="margin-left:10em; margin-top:10px; border-radius:50px;" src="https://user-images.githubusercontent.com/112595280/190867856-a7c04532-6b5a-4eef-8c1f-382d21e522c2.png">
 
